@@ -17,4 +17,5 @@ public class Test {
 				cat.sound();
 	}
 }
+// this or super should be the first statement call in constructor
 
